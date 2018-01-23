@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsnappy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsnappy?ref=badge_shield)
+
 The Snappy compression format in the Go programming language.
 
 To download and install from source:
@@ -105,3 +107,7 @@ BM_ZFlat/8   353.1MB/s  txt3 (54.99 %)
 BM_ZFlat/9   289.9MB/s  txt4 (66.26 %)
 BM_ZFlat/10    1.2GB/s  pb (19.68 %)
 BM_ZFlat/11  527.4MB/s  gaviota (37.72 %)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsnappy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsnappy?ref=badge_large)
